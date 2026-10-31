@@ -1,0 +1,6 @@
+{
+  "name": "eve-json-route-repro",
+  "private": true,
+  "type": "module",
+  "dependencies": { "ai": "^7.0.139", "eve": "1.0.0-rc.1" }
+}
